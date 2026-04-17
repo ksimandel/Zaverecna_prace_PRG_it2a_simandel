@@ -1,1 +1,2 @@
-# Zaverecna_prace_PRG_it2a_simandel
+# Ročníková práce
+Ročníková práce za 2. ročník, hra inspirovaná českou hrou Polda.
