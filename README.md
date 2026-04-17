@@ -1,0 +1,1 @@
+# Zaverecna_prace_PRG_it2a_simandel
